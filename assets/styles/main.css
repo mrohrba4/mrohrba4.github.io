@@ -10257,6 +10257,22 @@ body {
   margin-bottom: 5rem;
 }
 
+.fpdiv {
+  border: 1px solid black;
+}
+.p1div {
+  border: 1px solid black;
+}
+.p2div {
+  border: 1px solid black;
+}
+.pltext {
+  font-style: italic;
+}
+
+.projects-section h1  {
+  text-decoration: underline;
+}
 .projects-section {
   padding: 10rem 0;
 }
